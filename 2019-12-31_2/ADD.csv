@@ -1,0 +1,4 @@
+transaction_id,parent,parent_type,child,child_type,rel_type,date
+2156/15_tr_01,Government of Sri Lanka,government,State Minister of Education Services,minister,GOVERNS:AS_MINISTER,2019-12-31
+2156/15_tr_02,Government of Sri Lanka,government,State Minister of Development Banks and Loans,minister,GOVERNS:AS_MINISTER,2019-12-31
+2156/15_tr_03,Minister of Fisheries & Aquatic Resources,minister,Department of Tax,department,GOVERNS:AS_DEPARTMENT,2019-12-31

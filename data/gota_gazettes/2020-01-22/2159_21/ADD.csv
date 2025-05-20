@@ -1,0 +1,3 @@
+transaction_id,parent,parent_type,child,child_type,rel_type,date
+2159/21_tr_01,Government of Sri Lanka,government,State Minister of Environment,minister,HAS_MINISTER,2020-01-22
+2159/21_tr_02,Government of Sri Lanka,government,State Minister of Wildlife Resources,minister,HAS_MINISTER,2020-01-22

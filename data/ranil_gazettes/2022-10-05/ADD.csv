@@ -1,0 +1,2 @@
+transaction_id,parent,parent_type,child,child_type,rel_type,date
+2300/24_tr_04,Minister of Industries,minister,Industrial Technology Institute,department,GOVERNS:AS_DEPARTMENT,2022-10-05

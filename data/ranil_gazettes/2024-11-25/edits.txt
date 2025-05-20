@@ -1,0 +1,89 @@
+25-11-2024
+
+- Minister of Defence -> No change
+
+
+- Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism:
+
+Minister of finance, Economic Stabilization and National Policies RENAME to current
+
+National Planning Department -> Department of National Planning
+Department of Trade and Investment Policies -> Department of Trade and Investment Policy
+Import and Export Control Department -> Department of Import and Export Control
+Credit Information Bureau -> Credit Information Bureau of Sri Lanka
+
+REMOVE:
+Department of Telecommunications
+Wildlife Trust
+Sri lanka Media Training institute
+Department of internal Trade
+Pulse Crops, Grain research and Production authority
+Janatha Fertilizer Enterprises Ltd.
+Protection of Children - National Trust Fund
+Institutions coming under the Revival (Removal) of Underperforming Enterprises or Underutilized Assets Act vested to the Secretary to the Treasury
+Sri Lanka Telecom and its Subsidiaries and Allied Institutions
+Colombo Lotus Tower Management Company (Pvt.) Limited
+North Sea Ltd.
+Sri Lanka Th‍riposha Co. Ltd
+Galoya Plantation (Pvt.) Company
+National Salt Limited
+Sri Lanka Cement Corporation
+Paranthan Chemicals Ltd
+BCC (Pvt.) Limited
+State Engineering Corporation
+Mahinda Rajapaksa National Tele Cinema Park
+Lanka General Trading Company Ltd.
+
+ADD:
+Colombo Port City Economic Commission
+Public Debt Management Offi ce
+Techno Park Development Company (Pvt) Limited
+Board of Investment of Sri Lanka
+National Credit Guarantee Institution Limited
+Sri Lankan Air Lines Limited and its subsidiaries
+Canwill Holdings (Pvt) Ltd
+Provident Property Lanka Ltd
+Asian Game (pvt) Ltd
+Commonwealth Game Hambantota (Pvt) Ltd
+Magampura Port Management Company (Pvt) Ltd
+Mihin Lanka (Pvt) Ltd
+Peliyagoda warehouse
+Strategic Enterprises Management Agency
+Lanka Fabric Ltd
+
+- Minister of Energy:
+
+Minister of Power and Energy -> Minister of Energy
+
+ADD Trinco Petroleum Terminal (Pvt) Ltd
+
+- Minister of Agriculture, Livestock, Land, and Irrigation
+
+Minister of Agriculture -> Minister of Agriculture, Livestock, Land, and Irrigation
+
+Institute of Post-Harvest Technology -> National Institute of Post-Harvest Management
+
+Ceylon Fertilizer Company Ltd. -> State Fertilizer Company Ltd.
+
+REMOVE:
+National Fertilizer Secretariat
+Colombo Commercial Fertilizer Company
+Regional Economic Centres
+
+ADD:
+Department of Land Commissioner General
+Department of Land Use Policy Planning
+Department of Land Title Settlement
+Land Reform Commission
+Survey Department of Sri Lanka
+Institute of Surveying and Mapping
+Land Survey Council
+Land Acquisition Board of Review
+Department of Irrigation
+Major irrigation development projects including Uma Oya, Moragahakanda, Kalu Ganga, Gin Ganga, Nilwala, Malwathu Oya
+Central Engineering Consultancy Bureau and its subsidiaries and affiliated companies
+Sri Lanka Mahaweli Authority
+Mahaweli Consultancy Bureau (Pvt) Ltd
+Department of Export Agriculture
+
+
